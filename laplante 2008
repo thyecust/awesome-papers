@@ -1,0 +1,99 @@
+GREAT PAPERS IN COMPUTER SCIENCE: A RETROSPECTIVE
+
+PHILLIP A. LAPLANTE, PE, PHD Professor of Software Engineering, Penn State, plaplante@psu.edu
+
+Abstract: In 1994 a survey of over a thousand professors of Computer Science was conducted to obtain a list of scholarly papers considered to be the most important in terms of contributions to the field. The resulting 36 still qualify as the greatest papers in Computer Science ever. In this retrospective, the list of papers is revisited.
+
+1.   Introduction
+
+In  1994  as  a  young  Assistant  Professor  of  Computer  Science  at Fairleigh  Dickinson  University, it was my desire to create a list of important papers in the field. Every one of my colleagues  had  their  favorite  papers  (and  I  had  my  own  too),  but  these  lists  were  inconsistent.  Therefore,  I  resolved to compile  a  consensus  list  from  as  many  other  professors of Computer Science as I could find.  With a grant from West Publishing Company, and a list of names from their database, I mailed a set of questions to Computer Science professors at various universities in the United  States  (email  was  not  ubiquitous  at  this  time).  I  compiled the  results  and eliminated papers that were cited less than a threshold number of times. I then organized those  papers  into  groups  corresponding  to  the  areas  listed  in  the  Denning  report  on  the  Computer  Science  Curriculum  [Denning,  1989].  The  resultant  list represented  what I  believed to be a set of “Great Papers” in Computer Science.  My next step was to obtain copies of these papers (if I did not already have one), a task that proved to be daunting. Many of these papers were hard to find, and at the time, digital  libraries  were  very  new  and  very  incomplete,  so  Internet  searching was  virtually  useless. Instead, I had to scour libraries, or ask colleagues to send papers from their own personal libraries to complete the collections.
+
+2. The Paper List
+
+The  list  of  papers  with  some  annotations  was  published  in  1994  [Laplante,  1994].  In  addition  to  the  list  of  papers  further  information that was included in the report showed how  easy  the  paper  was  to  obtain  at  the  time  (many  of  these  papers  are  much  easier  to  find  today, thanks  to  comprehensive  digital  libraries),  the  appropriate  level  of  the  paper  (graduate,  upper  division  or  lower  division  undergraduate)  and  a  recommendation  as  to 2how  to  use  the  paper  in  a  classroom  (either  as  a  summary  presentation,  classroom  discussion, or written summary).  The list of papers from the survey is as follows.
+
+1. Algorithms and Data Structures
+
+(a)   Stephen A. Cook, ”Complexity of Theorem Proving,” Proceedings of the 3rd Annual ACM Symposium on Theory of Computing, 1971. pp. 151-158.
+(b)  J. Hartmanis and R. E. Stearns, ”On The Computational Complexity of Algorithms,” Transaction of the American Mathematical Society, vol. 117, 1965, pp. 285-306.
+(c)   C.  A.  R.  Hoare  ,  ”QUICKSORT,”  Journal  of  the  British  Computer  Society,  vol.  5,  no. 1, 1962, pp. 10-15, Elliot Brothers, LTD, London.
+(d)   M.  O.  Rabin  and  D.  Scott,  ”Finite  Automata  and  Their  Decision  Problems,”  IBM Systems Journal, April 1959, pp. 114-125.
+
+2. Programming Languages
+
+(a)  J. W. Backus, R.J. Beebar, S. Best, R. Goldberg, L. M. Haibt, H. L. Herrick, R. A. Nelson,  D.  Sayre,  P.  B.  Sheriden,  H.  Stern,  I.  Ziller,  R.  A.  Hughes,  R.  Nutt,  ”The  FORTRAN Automatic Coding System,” Proceedings of the Western Joint Computer Conference, Los Angeles, 1957, pp. 188-198.
+(b)   C. A. R. Hoare , ”Axiomatic Basis for Computer Programming,” Communications of the ACM, vol. 12, no. 10., Oct. 1969, pp. 576-580, 583.
+(c)   C.  A.  R.  Hoare  and  N.  Wirth,  ”An  Axiomatic  Definition  of  the  Programming  Language  PASCAL,”  Acta  Informatica,  vol.  2,  no.  4,  1973,  Springer-Verlag,  pp.  335-355.
+(d)   John  B.  Johnston,  ”The  Contour  Model  of  Block  Structured  Languages,”  ACM SIGPLAN Notices, vol. 6, no. 2, 1971, pp. 55-82.
+(e)   Donald   E.   Knuth,   ”On   the   Translation   of   Languages   from   Left   to   Right,”   Information and Control, vol. 8, no. 6, 1965, pp. 607-639.
+(f)   Peter Naur , J. W. Backus, F. L. Bauer, J. Green, C. Katz, J. McCarthy, A. J. Perlis, H. Rutishauser, K. Samelson, B. Vauqouis, J. H. Wegstein, A. van Wijngaarden, and M.   Woodger,   ”Revised   Report   on   the   Algorithmic   Language   ALGOL   60,”   Communications of the ACM, vol. 6, no. 1, 1963, pp. 1-17.
+
+3. Architecture
+
+(a)   John  von  Neumann,  ”First  Draft  of  a  Report  on  the  EDVAC,”  Contract  W-670-ORD-4926,  Moore  School  of  Electrical  Engineering,  University  of  Pennsylvania,  1945.
+(b)  C. E. Shannon, ”Symbolic Analysis of Relay and Switching Circuits,” Transactions of the AIEEE, vol. 57, 1938, pp. 713-723.
+(c)   C.  P.  Thacker,  E.  M.  McCreight,  B.  W.  Lampson,  R.  F.  Sproull,  and  D.  R.  Boggs,  ”Alto:  A  Personal  Computer,”  reprinted  in  Siewiorek,  Bell,  and  Newell,  Computer Structures: Principles and Examples, pp. 549-572. 
+(d)   M.  V.  Wilkes,  ”The  Best  Way  to  Design  an  Automatic  Calculating  Machine,  Manchester University Computer Inaugural Conference published by Ferranti, Ltd., 1951; reprinted in Annals of the History of Computers, vol. 8, no. 2, pp. 118-121.
+
+4. Numerical and Scientific Computing 
+
+(a)   A.   M.   Turing,   ”On   Computable   Numbers   With   An   Application   To   The   Entscheidungsproblem, Proceedings of the London Mathematical Society, 1936, pp. 230-265, Cambridge University Press.
+
+5. Operating Systems
+
+(a)   E.   W.   Dijkstra,   ”Cooperating   Sequential   Processes,”   in   F.   Genuys   (ed.),   Programming Languages, Academic Press, Orlando, Florida, 1968, pp. 43-112.
+(b)  E.  W.  Dijkstra,  Solution  of  a  Problem  in  Concurrent  Programming  Control,”  Communications of the ACM, vol. 8, no. 9, Sept. 1965, page 569.
+(c)   David  Hsiao  and  Frank  Harary,  ”A  Formal  System  for  Retrieval  from  Files”,  Communications of the ACM, vol. 13, no. 12, Feb. 1970, pp. 67-73.
+
+6. Software Methodology and Engineering
+
+(a)   Frederick   P.   Brooks,   ”No   Silver   Bullet:   Essence   and   Accidents   of   Software   Engineering,” Information  Processing  ’86  (IFIP  86),  H.-J.  Kugler  (ed.),  North  Holland.
+(b)  Edsgar W. Dijkstra, ”Guarded Commands, Nondeterminancy and Formal Derivation of Programs,” Communications of the ACM, vol. 18, no. 8, Aug. 1975, pp. 453-457.
+(c)   Edsgar,  W.  Dijkstra,  ”Go  To  Statement  Considered  Harmful,”  Communications  of  the ACM, vol. 11, no. 3, March 1968, pp. 147-148.
+(d)   C. A. R. Hoare, Proof of Correctness of Data Representations, Acta Informatica, vol. 1, no. 4, 1972, Springer-Verlag, pp. 271-281.
+(e)   D. L. Parnas , ”On The Criteria To Be Used In Decomposing Systems Into Modules, Communications of the ACM, vol. 15, no. 12, Dec. 1972, pp. 1053-1058.
+(f)   David L. Parnas and Paul C. Clements, ”A Rational Design Process – How and Why to  Fake  it,”  IEEE  Transactions  on  Software  Engineering,  vol.  12,  no.  2,  Feb.  1986,  pp. 251-257.
+(g)  W. Wulf and Mary Shaw, ”Global Variables Considered Harmful,” ACM SIGPLAN Notices, vol. 8, vol. 2, 1973, pp. 28-34.
+
+7. Databases
+
+(a)   A.  V.  Aho,  C.  Beeri  and  J.  D.  Ullman,  ”The  Theory  of  Joins  in  Relational  Databases”, ACM  Transactions  of  Database  Systems,  vol.  4,  no.  3,  Sept.  1979,  pp.  279-314.
+(b)  Peter Pin-Shan Chen, ”The Entity Relationship Model – Toward a Unified View of Data”, ACM Transactions of Database Systems, vol. 1, no. 1, March 1976, pp. 9-36.
+(c)   E.   F.   Codd,   ”A   Relational   Model   of   Data   for   Large   Shared   Data   Banks,”   Communications of the ACM, vol. 13, no. 6, June 1970, pp. 377-387.
+
+8. Artificial Intelligence and Robotics
+
+(a)   Marvin Minsky, ”Steps Toward Artificial Intelligence,” Proceedings of the IRE, vol. 49, Jan. 1961, pp. 8-30.
+(b)   Marvin  L.  Minsky,  ”Matter  Mind  Models”,  in  Semantic  Information  Processing, MIT Press, 1968, pp. 425-432.
+(c)   Judea  Pearl,  ”Fusion,  Propagation,  and  Structuring  in  Belief  Networks”,  Artificial  Intelligence, Elsevier Science Publishing Co. Inc., vol. 29, 1986, pp. 241-288.
+(d)   A. M. Turing, ”Computing Machinery and Intelligence,” Mind, vol. 59, no. 236, Oct. 1950, pp. 433-460. 
+
+9. Human-Computer Communications
+
+(a)   Edsgar,  W.  Dijkstra,  Programming  considered  as  a  human  activity,  Proc.  IFIP  Congress 65, North Holland, 1965, pp. 213-217.
+
+10. History of Computer Science
+
+(a)   John   Backus,   ”Programming   in   the   Nineteen   Fifties   –   some   Personal   Impressions.”, Turing Lecture, IBM.
+(b)  James  P.  Fry  and  Edgar  H.  Sibley,  ”Evolution  of  Data-Base  Management  Systems”, ACM Computing Surveys, vol. 8, no. 1, March 1976, pp. 7-42.
+(c)   Dennis   M.   Ritchie,   ”The   Evolution   of   the   Unix   Time-Sharing   System,”   Proceedings   of   the   Symposium   on   Language   Design   and   Programming   Methodology, Sydney, Sept., 1979, pp. 23-35.
+
+3.   The Great Papers Book
+
+West Publishing was so pleased with the survey results that they asked me to organize a book  that  included  the  papers  along  with  retrospective  notes  from  any  of  the  original  authors  who  were  still  living  [Laplante,  1996].    In  the  case  where  the  authors  were  not  living,  or  chose  not  to  write  the  introduction  to  their  papers,  an  appropriate  expert  was  recruited  to  do  so.  The  reflection  notes  of  the  available  original  authors  are  fascinating,  and are worth the price of the book and I was honored to be connected to these luminary Computer Scientists in this way.  The  Great  Papers  book,  however,  was  fatally  flawed.  The  Publisher  desired  to  re-typeset  each  and  every  paper  (rather  than  use  photocopying  technology)  to  achieve  a  uniform  look  for  the  book.  The  idea  had  merit,  but  due  to  the  complexities  of  rekeying  the text and especially several unique special symbols that were employed by some of the authors, many typographical errors were introduced. In adequate proofreading and a rush to  publish  caused  these  errors  to  remain  in  the  final  copy.  I  was  heartbroken  by  these  errors   and   so   were   some   of   the   original   authors   –   I   received   a   few   notes   of   disappointment from them, including a courteous but firm reproach from Edsgar Dijkstra, apparently  written  with  his  famous  Mont  Blanc  pen.  Sales  of  the  book  suffered,  and  it  was never reprinted. It can be obtained now only through resellers. Still,  the  value  of  the  book  is  not  completely  diminished,  and  I  am  reminded  that  many  antiques  do  not  lose  value  even  though  they  rust  or  become  tattered.    In  fact,  because the book contains several papers that are still hard to find in original form, these are  often  cited  by  other  authors  as  “found  in  Great  Papers  In  Computer  Science, Laplante, West Publishing, 1994,” and not from their original sources. 
+
+4.   Conclusion
+
+I am sometimes asked if there are new papers that should be added to the list, or if some of  the  papers  from  the  old  list  should  be  removed.  To  the  latter  point,  my  answer  is  always “no”. The papers that were selected in 1994 are still important today, even if only for historical value. As for new papers to add to the list, I would add the following three papers: 
+
+(a)   Zadeh, L., Fuzzy Sets, Information Control 8, 1965, pp. 338-353. 
+(b)   T. McCabe, “A Complexity Measure,” IEEE Trans.Software Engineering, December 1976, pp. 308–320.
+(c)   S.R.  Chidamber,  and  C.F.  Kemerer,  “A  Metrics  Suite  for  Object  Oriented  Design,”  IEEE Trans. Software Engineering, June 1994, pp. 476–493.
+
+Zadeh’s  paper  is  in  the  list  because  it  laid  the  foundation  for  the  entire  field  of  fuzzy  logic,  which  has  immense  theoretical  and  practical  implications  to  many  computing  paradigms.  McCabe’s  paper  is  included  because  it  is  one  of  the  oldest  papers  on  the  quantitative  measure  of  computer  programs  that  is  still  regularly  cited  today.  Finally,  Chidamber  and  Kemerer’s  paper  is  included  because it has spawned entire industries of tools and methodologies surrounding best practices in object-oriented programming, and this paper is cited frequently today too.  Of  course,  these  additions  are  based  on  my  opinion  only  and  I  am  sure  there  are  several  other  worthy  papers.  But  a  new  survey should probably be conducted to get the list right. But I’ll leave that task to another young Assistant Professor somewhere else.
+
+References
+
+1.    Peter Denning, et al, “Computing as a Discipline,” IEEE Computer Journal, vol. 22, Feb. 1989, pp. 63-70.
+2.     Phillip  A.  Laplante,  "A  Reading  List  of  Classic  Papers  for  Computer  Science  Majors," Mathematics and Computer Science Education, vol. 28, no. 2, Spring 1994, pp. 198-204.
+3.     Phillip  A.  Laplante  (editor),  Great  Papers  in  Computer  Science,  West  Publishing,  1996
